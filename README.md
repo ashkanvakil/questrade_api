@@ -1,4 +1,4 @@
-# questrade_api
+# Questrade Api
 Python3 Questrade API Wrapper
 
 ## Installation
